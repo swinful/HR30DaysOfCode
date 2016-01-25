@@ -1,0 +1,6 @@
+/**
+ * HR: 30 Days -- Day XX
+ * -swinful
+ **/
+
+import Foundation
